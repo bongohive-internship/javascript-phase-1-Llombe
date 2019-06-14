@@ -11,6 +11,11 @@
 var birthYear = 1994;
 var futureYear = 2050;
 var possibleAge = futureYear - birthYear;
+
+console.log(possibleAge);
+
+/*alert(possibleAge)*/
+
 document.getElementById("demo").innerHTML = "The Possible age is: " + possibleAge;
 </script>
 </body>
