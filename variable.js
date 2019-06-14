@@ -1,4 +1,6 @@
 // you solution should be here
+<!<!DOCTYPE html>
+<html>
 <body>
   
 <h2>JavaScript Variables</h2>
@@ -13,3 +15,5 @@ var possibleAge = futureYear - birthYear;
 document.getElementById("demo").innerHTML = "The Possible age is: " + possibleAge;
 </script>
 </body>
+
+</html>
